@@ -8,3 +8,38 @@
 [submodule "data/lua/IntegrationTests"]
 	path = src/plugins/lua/lua/IntegrationTests
 	url = https://github.com/macroquest/integration-tests.git
+[submodule "src/plugins/MQ2AutoAccept"]
+	path = src/plugins/MQ2AutoAccept
+	url = https://github.com/AmmolitePreservation/MQ2AutoAccept.git
+[submodule "src/plugins/MQ2Bandolier"]
+	path = src/plugins/MQ2Bandolier
+	url = https://github.com/AmmolitePreservation/MQ2Bandolier.git
+[submodule "src/plugins/MQ2Cast"]
+	path = src/plugins/MQ2Cast
+	url = https://github.com/AmmolitePreservation/MQ2Cast.git
+[submodule "src/plugins/MQ2EQBC"]
+	path = src/plugins/MQ2EQBC
+	url = https://github.com/AmmolitePreservation/MQ2EQBC.git
+	branch = claude
+[submodule "src/plugins/MQ2Exchange"]
+	path = src/plugins/MQ2Exchange
+	url = https://github.com/AmmolitePreservation/MQ2Exchange.git
+[submodule "src/plugins/MQ2Melee"]
+	path = src/plugins/MQ2Melee
+	url = https://github.com/AmmolitePreservation/MQ2Melee.git
+[submodule "src/plugins/MQ2MoveUtils"]
+	path = src/plugins/MQ2MoveUtils
+	url = https://github.com/AmmolitePreservation/MQ2MoveUtils.git
+[submodule "src/plugins/MQ2Nav"]
+	path = src/plugins/MQ2Nav
+	url = https://github.com/AmmolitePreservation/MQ2Nav.git
+	branch = claude
+[submodule "src/plugins/MQ2NetBots"]
+	path = src/plugins/MQ2NetBots
+	url = https://github.com/AmmolitePreservation/MQ2NetBots.git
+[submodule "src/plugins/MQ2Rez"]
+	path = src/plugins/MQ2Rez
+	url = https://github.com/AmmolitePreservation/MQ2Rez.git
+[submodule "src/plugins/MQ2Twist"]
+	path = src/plugins/MQ2Twist
+	url = https://github.com/AmmolitePreservation/MQ2Twist.git
